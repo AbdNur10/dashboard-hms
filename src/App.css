@@ -39,12 +39,15 @@ body {
 @media (max-width: 460px) {
   .logo {
     width: 100%;
+    border-radius: 50px;
+    margin-bottom: 0px;
   }
 }
 .form-title{
   font-size: 1.75rem;
   color: #111;
-  margin-bottom: 30px;
+  margin-bottom: 20px;
+  margin-top: 10px;
 }
 .form-component {
   padding-top: 40px;
